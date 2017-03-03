@@ -1,5 +1,4 @@
 <?php
-// https://www.martinfowler.com/bliki/ExpressionBuilder.html
 
 require_once 'Customer.php';
 require_once 'Order.php';
